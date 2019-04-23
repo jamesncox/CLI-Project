@@ -1,6 +1,7 @@
 class Test 
 
-def initialize
-end 
+    def initialize
+        "something something something"
+    end 
 
 end 
